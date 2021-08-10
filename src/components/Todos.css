@@ -1,0 +1,9 @@
+.todos{
+  list-style-type: none;
+  text-decoration: none;
+}
+
+.todocheck {
+  display: flex;
+  justify-content: center;
+}
